@@ -53,7 +53,7 @@ body{
 
 
 .mission{
-  background-image: url(/Users/tori-annwatkis/Documents/Projects/TeaCozy/Resources/Images/img-mission-background.jpg);
+  background-image: url(Resources/Images/img-mission-background.jpg);
   height: 700px;
   width: 1200px;
   display: flex;
@@ -138,7 +138,7 @@ padding-bottom: 70px;
 }
 
 .locations{
-  background-image: url(/Users/tori-annwatkis/Documents/Projects/TeaCozy/Resources/Images/img-locations-background.jpg);
+  background-image: url(Resources/Images/img-locations-background.jpg);
   width: 1200px;
   height: 500px;
   margin-left: 50px;
